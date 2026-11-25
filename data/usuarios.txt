@@ -1,3 +1,0 @@
-Administracion|admin@usa.edu.co|pbkdf2$120000$PnWtV3VjdtCvM0DllVPidQ==$ULRNmRy/pqN7qrzQlYizIg0wBvhpNTnB8QTy8jCrImA=|false
-Julian|julia.brinez02@usa.edu.co|pbkdf2$120000$0Jgj/RIY9CzjeNyDGEjz5g==$V7/pW2UJGkxNMb+cbWbGX7PemxJbpdOZNODjXfQUfp0=|false
-Julian|julianbrinez@usa.edu.co|pbkdf2$120000$0Zlrcl9/mGjhuUbaeVYJMQ==$5LOfpa6rKD2gvmxxQf3ynF86gpGFkWjcEjSCAvphMdk=|false
