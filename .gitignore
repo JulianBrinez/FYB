@@ -1,36 +1,38 @@
-node_modules/
+# Java / Maven
 target/
+
+# Android / Gradle
 .gradle/
-.idea/
+**/.gradle/
 build/
 **/build/
 local.properties
 *.iml
+.idea/
+
+# Node
+node_modules/
+**/node_modules/
+
+# Variables y credenciales locales
 .env
+.env.*
+!.env.example
 
-# Archivos locales y compilaciones
-target/
-data/*.mv.db
-data/*.trace.db
-data/*.lock.db
-android-app/node_modules/
-android-app/android/.gradle/
-android-app/android/local.properties
-android-app/android/app/build/
-
-# Datos privados de pruebas: conservar solo localmente
+# Datos privados y bases de datos locales
 data/usuarios.txt
 data/objetos.txt
 data/puntos.txt
+data/canjes.txt
 data/objetos/
-data/fyb-db.mv.db
-data/*.mv.db
-data/*.trace.db
-data/*.lock.db
+data/fyb-db*
+*.mv.db
+*.trace.db
+*.lock.db
 
-# Archivos de compilacion
-target/
-android-app/node_modules/
-android-app/android/.gradle/
+# Configuración local de Android
 android-app/android/local.properties
-android-app/android/app/build/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
