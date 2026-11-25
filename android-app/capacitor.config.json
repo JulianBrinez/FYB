@@ -1,0 +1,10 @@
+{
+  "appId": "com.sergioarboleda.fyb",
+  "appName": "FYB",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}

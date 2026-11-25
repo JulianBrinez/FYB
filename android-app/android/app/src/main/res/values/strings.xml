@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FYB</string>
+    <string name="title_activity_main">FYB</string>
+    <string name="package_name">com.sergioarboleda.fyb</string>
+    <string name="custom_url_scheme">com.sergioarboleda.fyb</string>
+</resources>
