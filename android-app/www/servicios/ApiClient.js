@@ -3,7 +3,7 @@
   "use strict";
 
   const CLAVE_SERVIDOR = "fyb.apiBaseUrl";
-  const SERVIDOR_PREDETERMINADO = "http://192.168.1.103:8080";
+  const SERVIDOR_PREDETERMINADO = "";
 
   class ErrorApi extends Error {
     constructor(mensaje, estado) {
