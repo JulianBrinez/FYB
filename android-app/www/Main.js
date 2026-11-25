@@ -105,6 +105,7 @@
   }
 
   async function arrancar() {
+    if (ApiClient.tieneConfiguracion()) await cargarConfiguracion();
     aplicarMarca();
     if (ApiClient.tieneConfiguracion() === false && !location.hash) {
       location.hash = "#/configuracion-servidor";
